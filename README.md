@@ -4,8 +4,6 @@
 
 - 🔭 I’m currently working for EPAM Ukraine. 
 - 🌱 I’m Java Developer. 
-- 📫 How to reach me: [mail.me](pavel.reshetilo@gmail.com)
-- 💬 Ask me about everything in [Telegram](https://t.me/dp_ua)
 
 #### Some of my GitHub Stats:
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=dp-ua&show_icons=true&theme=merkocount_private=true)](https://github.com/anuraghazra/github-readme-stats)
